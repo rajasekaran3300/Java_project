@@ -1,7 +1,7 @@
-Overview : 
+#Overview : 
        The Movie Booking System is a Java-based console application designed to handle movie ticket bookings and seat management. The system is built with a focus on real-time updates to seat availability and efficient database operations, utilizing PostgreSQL as the backend. The application supports functionalities such as viewing available movies, booking tickets, and automatic seat management for future showtimes.
 
-Technologies & Tools :
+#Technologies & Tools :
 		Frontend: Console-based (Java)
 		Backend: PostgreSQL (Database Management)
 		Database Access: JDBC (Java Database Connectivity)
